@@ -1,1 +1,9 @@
-Cycle Count Description:
+Cycle Count:
+
+The Cycle Count Dashboard was the first project I started after completing my training at PECO. 
+
+As is self explanatory, knowing how much of you have of what items is an extremely important part of manufacturing, managing finances and a warehouse and much more. In order to do this, someone needs to manually go around and count the number of items we have to make sure that our digitial counts match real-world counts. This process can take hours and new items need to be counted every single day. Any time saves that we can create -- for example stating the location(s) of an item, can make a huge difference.
+
+This, like many of my projects, employees the use Microsoft's Power BI tool as well as SQL queries to our onsite database. 
+
+The Cycle Count Dashboard also has a mobile view, allowing it to be viewed on a phone so that the cycle counter can easily look at what items need to be counted, where they are, how many of that item there should be, and much more infomation.
