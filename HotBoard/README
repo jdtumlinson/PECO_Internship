@@ -1,1 +1,27 @@
-HotBoard Description:
+HotBoard Application
+
+Introduction
+HotBoard represents the most ambitious project undertaken during my internship at PECO, featuring a robust solution that combines the versatility of Microsoft Power Apps with the analytical strength of Power BI. This documentation details the purpose, functionality, and technological composition of the HotBoard application.
+
+Overview
+The HotBoard application is a digital platform designed to track and notify users of critical 'hot' items throughout the receiving and quality control processes within the warehouse. Aimed at enhancing transparency and efficiency, this tool significantly reduces the need for manual status checks and inquiries.
+
+Purpose and Benefits
+The core functionalities and benefits provided by the HotBoard include:
+    Real-Time Status Updates: Users are kept informed about the whereabouts and progression of important shipments within the quality control workflow.
+    PO Number Compilation: The app consolidates all purchase order (PO) numbers in one place, streamlining order management.
+    Multi-Notification System: Supports automatic notifications to multiple stakeholders when there are updates concerning their items of interest.
+    Swimlane Dynamics: Enables automatic transitioning of received shipments across visual swimlanes that represent different stages of the internal process.
+    Historical Stickies: Provides visibility into previously generated stickies (notes or alerts) associated with specific items or shipments.
+    Archiving Delivered POs: Automates the archival process for delivered POs, ensuring a clean and current operational view.
+
+Technological Stack
+    Microsoft Power Apps: Utilized as the primary environment for designing and hosting the HotBoard application interface.
+    Power BI: Integrated within the Power Apps environment to offer embedded analytical insights.
+    Microsoft Power Automate: Employed to automate workflows, streamline data flow and facilitate communication between SharePoint and the Power App.
+    SharePoint: Acts as the centralized data repository for managing various SharePoint lists that are interacted with by the Power App.
+    SQL Queries: Implemented to extract real-time data directly from the on-site database, ensuring that the information displayed in the HotBoard is current and accurately reflects the latest warehouse status.
+    Microsoft Power Automate: Deployed to automate data retrieval from the on-site database and to orchestrate the flow of data into SharePoint lists, which Power Apps can then interact with.
+
+Innovations
+The development of HotBoard marked a pioneering venture for both PECO and Astronics Corporation. The project's success paved the way for the establishment of the Power Apps Governance Committee, a testament to the growing significance of advanced digital solutions within the organization.
