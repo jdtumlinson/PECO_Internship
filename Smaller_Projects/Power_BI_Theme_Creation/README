@@ -1,0 +1,19 @@
+Power BI Theme Creation
+
+Introduction
+This repository contains the assets and guidelines developed as part of the Power BI Theme Creation project at PECO. Recognizing the absence of a standardized visual theme for Power BI reports within the company, this project was initiated to establish a cohesive and company-branded design language for all Power BI reports.
+
+Project Rationale
+The objective was to enhance the user experience across all Power BI reports by implementing a consistent visual standard that embodies the corporate identity of PECO. By doing so, we aimed to eliminate the learning curve associated with adapting to varied report designs and facilitate immediate recognition and familiarity for users.
+
+Contents
+The repository includes the following components:
+    Theme .json File: The core of the Power BI theme, which comprises the standardized color palette, font choices, and other base elements used across the company's Power BI reports.
+    Header Design PNG: This image serves as a mock-up for creating headers and provides guidance on the overall page design using the theme.
+    Visuals Example PNG: An image displaying examples of visuals such as graphs and charts that adhere to the theme, ensuring a uniform look within and across reports.
+
+Importance of Consistency
+A unified theme across reports brings several advantages:
+    Brand Identity: Reflects PECO's brand consistently in every report.
+    User Familiarity: Builds a common visual language for all users, simplifying the navigation and understanding of reports.
+    Professionalism: Demonstrates a polished and professional approach to data presentation.
