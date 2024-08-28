@@ -1,1 +1,25 @@
-PLN & WIP Description:
+PLN & WIP Shortages
+
+Introduction
+The PLN & WIP (Planned Work & Work in Progress) Shortages report serves as a comprehensive tool, aggregating critical data on order action items and their associated components, as well as visualizing the interplay and demand for these items across various job orders.
+
+Overview
+Despite its conciseness as a single-page report, the development of the PLN & WIP Shortages report was a meticulous process that involved innovation in data relationship building and exploration of new methodologies to facilitate dynamic data interaction.
+
+Purpose
+The core purpose of this report is to provide a detailed yet clear view of:
+    Current shortages in planned projects and ongoing work.
+    Individual components that are affecting the order pipeline.
+    Relationships and conflicts between job orders competing for the same components.
+
+Development Challenges
+Creating a report that could navigate and filter through complex data sets in multiple dimensions posed a significant challenge. The success of the report hinged on the ability to:
+    Efficiently connect disparate data tables.
+    Allow for traversing these connections in various ways to explore different data relationships.
+    Enable advanced filtering to streamline the identification of shortages and conflict points.
+
+Features
+    Comprehensive Data Integration: All relevant data regarding PLN and WIP shortages are compiled within a unified interface.
+    Action Item Breakdown: The report delineates order action items down to the individual component level.
+    Conflict Visualization: It clearly presents competing demands for components by different job orders, aiding in conflict resolution and priority management.
+    Dynamic Interactivity: Users are empowered to traverse and filter through the shortage data from multiple entry points and viewing angles.
