@@ -1,8 +1,7 @@
 Cycle Count Dashboard
 
 Overview
-Welcome to the Cycle Count Dashboard documentation. This application was developed as the inaugural project upon the completion of my training at PECO. The dashboard addresses a critical component of operational management—inventory tracking. Accurate knowledge of item quantities is pivotal for seamless manufacturing, effective financial oversight, and warehouse management. Traditional inventory assessment demands manual counts to align digital records with physical stock, a labor-intensive task demanding daily commitment.
-
+This application was developed as the first project upon the completion of my training at PECO. The dashboard addresses a critical component of operational management—inventory tracking. Accurate knowledge of item quantities is pivotal for seamless manufacturing, effective financial oversight, and warehouse management. Traditional inventory assessment demands manual counts to align digital records with physical stock, a labor-intensive task demanding daily commitment.
 
 Objective
 The primary goal of the Cycle Count Dashboard is to streamline the inventory counting process, thereby saving time and enhancing accuracy. By centralizing item locations and inventory data, the dashboard significantly reduces the hours spent on manual verification, facilitating the daily tallying of new stock items.

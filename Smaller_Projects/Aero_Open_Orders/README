@@ -1,0 +1,20 @@
+Aero Open Orders 
+
+Introduction
+This document describes the Aero Open Orders report's functionality and the organizational benefits it brings. Although it embodies simplicity in design, the impact of this report on resource efficiency has been substantial, particularly in saving valuable time for our team members.
+
+Background
+Prior to the implementation of the automated Aero Open Orders report, the onus fell upon a dedicated employee to manually compile this report during off-hours, often impinging upon weekends. Recognizing the necessity to enhance work-life balance and improve operational efficiency, we sought to automate this process.
+
+Solution
+The automated Aero Open Orders report leverages data collection methodologies consistent with other Power BI reports developed during my tenure. By automating the data gathering and compilation, we have successfully eliminated the need for manual report preparation.
+
+Features
+    Automation: The report autonomously collects and aggregates open order data, substantially reducing manual intervention.
+    Ease of Distribution: The involved employee now simply oversees the distribution of the report at the close of the final workday of the week.
+    Consistency and Accuracy: The report ensures consistent data presentation and accuracy, as human error is minimized due to automation.
+
+Benefits
+    Time Savings: The automated report frees up several hours per week, enhancing the work-life balance for our employees.
+    Resource Optimization: Allocating previously manual tasks to automated systems allows employees to focus on more strategic and value-adding activities.
+    Data Availability: Reliable and updated open order data is readily available at the end of each week, supporting informed decision-making.

@@ -1,0 +1,20 @@
+Capacity Reports
+
+Overview
+The Capacity Reports Power BI project began as an enhancement and modernization of the existing Molding Capacity Report. It has since evolved to a more comprehensive analytical tool that now encompasses additional aspects, such as Casting and FAI (First Article Inspection) status.
+
+Development Background
+The original scope was to redesign and improve the user interface of the Molding Capacity Report. However, as the project progressed, it was clear that there was an opportunity to provide further value by incorporating Casting data and the status of FAIs, leading to a multifaceted overview of capacity across different production segments.
+
+Features
+    Integrated Data Sources: The report aggregates information from several streams, including our central database, model-generated data by users, and the transformation of data from other existing reports.
+    Enhanced User Interface: Through the Power BI platform, the report offers an intuitive and user-friendly experience, aiding stakeholders in better navigating and interpreting capacity data.
+    Expanded Scope of Reporting: By including Casting and FAI status information, the report delivers a broader outlook on production capabilities and constraints.
+    Real-time Updates: The report is designed to reflect current data, ensuring that decision-makers are equipped with the most accurate information possible.
+
+Objectives
+The revamped Capacity Reports PBI aims to:
+    Streamline the visualization of molding, casting, and FAI data within one unified platform.
+    Enable more efficient capacity planning and analysis.
+    Support proactive management of production resources and identification of potential bottlenecks.
+    Facilitate informed decision-making through enhanced reporting of manufacturing capacities.
