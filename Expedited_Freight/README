@@ -1,1 +1,16 @@
-Expedited Freight Description:
+Expedited Freight
+
+Overview
+The Expedited Freight Report is an analytical tool created to encapsulate shipping data from our triad of logistic providers. It emphasizes the evaluation of expedited shipping services, which are characterized by a premium cost and the implied immediacy of delivery. The intentional focus of this report on expedited shipping is to equip us with a detailed dissection of our financial commitments in this particular area of operations.
+
+Purpose
+Given the substantial expense associated with expedited shipping and the critical time-sensitivity it entails, it is of profound importance for us to monitor and analyze the use of such services across our shipping operations. This report provides a centralized lens through which we can appraise our utilization and spending on expedited freight.
+
+Technology Stack
+The construction of the Expedited Freight Report integrates multiple technological solutions:
+    Microsoft Power BI: Implemented for its robust data visualization and dynamic reporting capabilities.
+    SQL (Structured Query Language): Utilized to execute targeted queries that consolidate data from our shipping partners’ records.
+    Robocopy (Robust File Copy): Deployed to replicate and migrate data files from within our network infrastructure.
+
+Implementation
+Within the report's workflow, Robocopy plays a pivotal role by automating the replication process. Specifically, Robocopy synchronizes the most current invoice data from an on-premise file storage point directly to an offsite server. This synchronization occurs weekly and ensures that the Expedited Freight Report operates with the most recent and relevant data.

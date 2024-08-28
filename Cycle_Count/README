@@ -1,9 +1,13 @@
-Cycle Count:
+Cycle Count Dashboard
 
-The Cycle Count Dashboard was the first project I started after completing my training at PECO. 
+Overview
+Welcome to the Cycle Count Dashboard documentation. This application was developed as the inaugural project upon the completion of my training at PECO. The dashboard addresses a critical component of operational management—inventory tracking. Accurate knowledge of item quantities is pivotal for seamless manufacturing, effective financial oversight, and warehouse management. Traditional inventory assessment demands manual counts to align digital records with physical stock, a labor-intensive task demanding daily commitment.
 
-As is self explanatory, knowing how much of you have of what items is an extremely important part of manufacturing, managing finances and a warehouse and much more. In order to do this, someone needs to manually go around and count the number of items we have to make sure that our digitial counts match real-world counts. This process can take hours and new items need to be counted every single day. Any time saves that we can create -- for example stating the location(s) of an item, can make a huge difference.
 
-This, like many of my projects, employees the use Microsoft's Power BI tool as well as SQL queries to our onsite database. 
+Objective
+The primary goal of the Cycle Count Dashboard is to streamline the inventory counting process, thereby saving time and enhancing accuracy. By centralizing item locations and inventory data, the dashboard significantly reduces the hours spent on manual verification, facilitating the daily tallying of new stock items.
 
-The Cycle Count Dashboard also has a mobile view, allowing it to be viewed on a phone so that the cycle counter can easily look at what items need to be counted, where they are, how many of that item there should be, and much more infomation.
+Features
+    Data Integration: The dashboard leverages Microsoft's Power BI tool to visualize inventory data and employs SQL queries to interact with our onsite database, ensuring real-time data accuracy.
+
+    Mobile Accessibility: Designed with a mobile-responsive view, the dashboard empowers cycle counters to effortlessly access crucial information on-the-go. This includes the ability to check item counts, locations, expected quantities, and additional relevant details directly from their smartphones.
