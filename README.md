@@ -1,22 +1,22 @@
 # Spring-Summer 2024 Internship Projects Repository - Astronics PECO
 
-# Repository Overview
+## Repository Overview
 This repository serves as a curated archive housing a selection of projects completed during my tenure as a business systems analyst intern at Astronics PECO. Astronics PECO, nestled in Clackamas, Oregon, is renowned for its expertise in the aerospace industry, specializing in the design and production of Passenger Service Units (PSUs) and Enhanced Vision Systems.
 
-# Internship Summary
+## Internship Summary
 Throughout the duration of my six-month internship, my role encompassed the development and refinement of various business process enhancements. My contributions spanned across several organizational divisions including engineering, senior management, finance, manufacturing, quality control, and warehouse operations, with the singular aim to streamline business workflow efficiencies.
 
-# Project Insights
+## Project Insights
 The range of my projects varied in complexity and impact; from crafting straightforward goal metrics to architecting intricate, multi-component automated systems. The repository organizes these works into respective folders, each corresponding to the specific area of focus and utility within the company's infrastructure.
 
-# Confidentiality Notice
+## Confidentiality Notice
 It is imperative to acknowledge the sensitivity of the proprietary data and processes at Astronics PECO. Consequently, direct excerpts of source code are not disclosed, and certain visual elements within the project imagery have been redacted or substantially altered to maintain confidentiality.
 
-# Repository Content
+## Repository Content
 Due to the aforementioned confidentiality constraints, the repository is populated with visual representations of my contributions to Astronics PECO. These images illustrate the scope and breadth of my work, albeit with sensitive information thoughtfully obfuscated.
 
-# Contact and Further Inquiry
+## Contact and Further Inquiry
 For additional information or to discuss the content within this repository, please reach out via the contact details provided within my profile. Please note that specific details pertaining to the projects may be limited due to company policies on proprietary information.
 
-# Acknowledgements
+## Acknowledgements
 I extend my heartfelt gratitude to Astronics PECO and the entirety of its staff for the opportunity to contribute and learn throughout my internship period. The experience and knowledge acquired during this time have been invaluable and have significantly shaped my professional development.
